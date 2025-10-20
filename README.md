@@ -125,7 +125,7 @@ Open your browser to `http://localhost:3000` - to access Admin dashboard
 
 ```bash
 cd backend/agents
-python blown_agent.py
+python blown_agent.py start
 ```
 
 **Expected output:**
